@@ -1,2 +1,2 @@
-# Exercício de implementação de conceitos SOLID
+# Exercicio de implementação de conceitos SOLID
 
